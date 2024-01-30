@@ -10,7 +10,13 @@
 - Acesso aos resumos e PDF. 
 
 ### Protótipos e layout
+![MENU](media/readme/cadastro.png)
 ![MENU](media/readme/login.png)
+![MENU](media/readme/novo_flashcard.png)
+![MENU](media/readme/iniciar_desafio.png)
+![MENU](media/readme/lista_desafio.png)
+![MENU](media/readme/apostila_pdf.png)
+![MENU](media/readme/adm_django.png)
 
 ### Framework / biblioteca
 
